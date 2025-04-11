@@ -47,7 +47,6 @@ My skillset spans both **frontend** and **backend** technologies, giving me a co
 ## 📫 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eetuaro)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/eetuaro1)
 - Email: eetuaro1@gmail.com
 
 ---
