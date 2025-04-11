@@ -2,7 +2,7 @@
 
 ## 💫 About Me  
 I’m a **third-year Business Information Technology student** specializing in **Fullstack Development**.     
-🌱 "Every line of code is a chance to learn something new — and that's what keeps me going!"
+🌱 "Every line of code is a chance to learn something new and that's what keeps me going!"
 
 ---
 
