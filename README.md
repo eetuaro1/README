@@ -47,7 +47,7 @@ I'm passionate about building smart, scalable, and visually engaging application
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/eetuaro)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/eetuaro1)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:eetuaro1@gmail.com)
+- Email: eetuaro1@gmail.com
 
 ---
 
