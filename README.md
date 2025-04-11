@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Eetu Aro!
 
 ## 💫 About Me  
-I’m a **third-year Business Information Technology student** specializing in **Fullstack Development**.     
+I’m a **third-year Business Information Technology student** my skillset spans both **frontend** and **backend** technologies, giving me a comprehensive understanding of **fullstack** development**.    
 🌱 "Every line of code is a chance to learn something new and that's what keeps me going!"
 
 ---
